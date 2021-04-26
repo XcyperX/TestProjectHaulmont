@@ -20,7 +20,7 @@ public class UiController {
         return "bankPage";
     }
 
-    @GetMapping("/credits")
+    @GetMapping("/")
     public String createCreditOffer(Model model) {
         model.addAttribute("banks", bankService.findAll());
         return "mainPage";

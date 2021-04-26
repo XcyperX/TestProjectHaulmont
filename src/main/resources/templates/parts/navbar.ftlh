@@ -8,7 +8,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/credits">Оформить кредит</a>
+                <a class="nav-link" href="/">Оформить кредит</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/banks">Банки</a>
